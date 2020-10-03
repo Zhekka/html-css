@@ -1,2 +1,2 @@
-# git-hub-first
-first project 
+# git-hub-front-end-proj
+Project HTML/CSS 
